@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Ürün 1",
+        "barcode": "123456",
+        "image": "https://witcdn.interkidsy.com/trtoptan-2li-kiz-cocuk-bolerolu-elbise-1-4y-babyrose-1002-4085-kiz-cocuk-elbise-27154-28-O.jpg",
+        "package_quantity": 6,
+        "lot_content": "1S-2M-2L-1XL",
+        "price": 48
+    },
+    {
+        "name": "Ürün 2",
+        "barcode": "654321",
+        "image": "https://witcdn.interkidsy.com/trtoptan-2li-kiz-cocuk-bolerolu-elbise-1-4y-babyrose-1002-4085-kiz-cocuk-elbise-27156-28-O.jpg",
+        "package_quantity": 6,
+        "lot_content": "1S-2M-2L-1XL",
+        "price": 25
+    },  
+    {
+        "name": "Ürün 3",
+        "barcode": "654321",
+        "image": "https://witcdn.interkidsy.com/trtoptan-2li-kiz-cocuk-bolerolu-elbise-1-4y-babyrose-1002-4085-kiz-cocuk-elbise-27155-28-O.jpg",
+        "package_quantity": 6,
+        "lot_content": "1S-2M-2L-1XL",
+        "price": 25
+    },  
+    {
+        "name": "Ürün 4",
+        "barcode": "654321",
+        "image": "https://witcdn.interkidsy.com/trtoptan-2li-kiz-cocuk-bolerolu-elbise-1-4y-babyrose-1002-4085-kiz-cocuk-elbise-27157-28-O.jpg",
+        "package_quantity": 6,
+        "lot_content": "1S-2M-2L-1XL",
+        "price": 25
+    }
+    
+
+]
